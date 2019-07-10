@@ -1,0 +1,82 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: WdVeXHEVIimDw4fEG4s9gLCoi5s=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: mFsI571K6U3MomPZ5HGSPzf1WRY=
+
+Name: firmware-update/km4.mbn
+SHA1-Digest: BOUXmBJtd/PO3nanj2qO/SI11B4=
+
+Name: compatibility.zip
+SHA1-Digest: bisp+jVpUMQAq4srSC8EmXnd+zI=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: system.transfer.list
+SHA1-Digest: h1YspwWhsL+rHB+iIFQUXefMlL4=
+
+Name: firmware-update/cmnlib_30.mbn
+SHA1-Digest: a2fxXPP0i8PtgKSZ6cG8hM3Nghk=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: n5G16W7uwY56ZSb7EycCob/07Hc=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: SrVAXBUyc+raNrDn8khWQDWrEU0=
+
+Name: firmware-update/dtbo.img
+SHA1-Digest: UgTnaeVX+hDV83O184ZdpPn/Y/s=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: hyKy+fHQsG59lPqCZ3iSOVftlPU=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: s1uN+4SKXseQfzSFgNgJwWni/gw=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: q94I3Fg4llyH6eUm7p7l3xLQHWg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 49HG5y9YpSI7bZ3sQdZaxNpQ668=
+
+Name: vendor.patch.dat
+SHA1-Digest: FGxh8AKe7Jf6bDNWX6tLn6TB/xA=
+
+Name: vendor.new.dat.br
+SHA1-Digest: IZ1tm2smkNBfGHFGUpU7Bi3TX+M=
+
+Name: boot.img
+SHA1-Digest: +9DFhLlFOFgRxDL3dS7tKwXxP0M=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: 4a3fpni3WeUsLIIU4pGl+eaqv2k=
+
+Name: firmware-update/splash.img
+SHA1-Digest: u8SaQFlYrTICZ5dYGFhcNheW6So=
+
+Name: firmware-update/vbmeta.img
+SHA1-Digest: vtnq8K1Jg4bll5Hv4PohCAJnTxQ=
+
+Name: vendor.transfer.list
+SHA1-Digest: DXLVKmbAkCHC4kUqnAZq94NdKA0=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: F0Rq4mQmRpUGxdYB5t+YZjuyMmg=
+
+Name: system.new.dat.br
+SHA1-Digest: 7JQbOUJrd9VRcz+JUpEOgh3AsFM=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: /M7o9QoTm6c+EbCOky9rY1OA83U=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: rU4b1CMB6KsTx0BS9ucdNMLe0b4=
+
+Name: firmware-update/cmnlib64_30.mbn
+SHA1-Digest: xLZSN6yY8fgOpgprEzCCH6uDuAY=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: Pci9wEZMpjecngc3QawYWKmsww0=
+
