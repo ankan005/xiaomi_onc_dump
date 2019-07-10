@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:297         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/onc/onc:9/PKQ1.181021.001/V10.3.3.0.PFLINXM:user/release-keys
+post-build-incremental=V10.3.3.0.PFLINXM
+post-sdk-level=28
+post-security-patch-level=2019-06-01
+post-timestamp=1561986776
+pre-device=onc

@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pFzc/TSxSi1Jw88gjlpSx9sQDnc=
+
+Name: firmware-update/km4.mbn
+SHA1-Digest: mmvPg8uo3oipvroRi2YupCvrYow=
+
+Name: compatibility.zip
+SHA1-Digest: 2aDJQphvvhrWlntjB2S3MYI0v0M=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system.transfer.list
+SHA1-Digest: jWUSrtKWIFIPsyAiARe+JVhFh7g=
+
+Name: firmware-update/cmnlib_30.mbn
+SHA1-Digest: kYa9u4YuhxMlI1DFUfp/1V6w3rA=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: CYVqL8QOETngUX1P+RzjBauMyVY=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: lqo9JhMnEA7SwRInfpF8PdXpSUY=
+
+Name: firmware-update/dtbo.img
+SHA1-Digest: 2l+vzObk9GQpKuvWOyjExo9ygzE=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: AEqCkeGrDrSNN0g5939BXJ2nf94=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: +kHw+ppI0QBBMXynpGbU+1leCSI=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: njFG//psjeEkzlnge1LUFB9iMLw=
+
+Name: vendor.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: vendor.new.dat.br
+SHA1-Digest: dCeqYruhj+SzmHecXcL3GPHDlxc=
+
+Name: boot.img
+SHA1-Digest: uSgrjcblJawNvZj+gZfT06gW+Zo=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: aUT3fIr82z7u9r5+BoloCss2bdk=
+
+Name: firmware-update/splash.img
+SHA1-Digest: zUVsIROF8lA5epZDgpqN+gCKhJI=
+
+Name: firmware-update/vbmeta.img
+SHA1-Digest: T8faIC/ogFRWfL9uKH7SVqDB6i4=
+
+Name: vendor.transfer.list
+SHA1-Digest: KiKmo8MaR2Jo/onHD5MVnczumwc=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: eaIMUL7jwCCf3CoaQdQnsZAOcrc=
+
+Name: system.new.dat.br
+SHA1-Digest: VWeYFVNikEUvXNHxmnqqs3VfUn8=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: sf+f8wbkSUBo8gMzq3kwy6rGYDE=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: 3JqZTjJS76mbRfR6xfWroQfEAME=
+
+Name: firmware-update/cmnlib64_30.mbn
+SHA1-Digest: MSCga6XTGkeTsOaUaeOB5VN5WQk=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: AETBqyIPdKrk7UkPTI5hAcGvdUg=
+
